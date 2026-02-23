@@ -88,7 +88,7 @@ I enjoy building things that **actually run** — servers, APIs, IoT systems, VP
 
 ## 📫 Contact
 - Email: **info@yusufcelalcelik.com**
-- LinkedIn: https://www.linkedin.com/in/yusuf-celal-%C3%A7elik-b16b5b284/
+- LinkedIn: https://www.linkedin.com/in/yusufcelalcelik/
 - GitHub: https://github.com/yusufcelalcelik
 - Website: https://yusufcelalcelik.com
 
